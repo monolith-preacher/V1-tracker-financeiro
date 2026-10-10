@@ -1,5 +1,6 @@
 __pycache__/
 venv/
+.venv/
 *.db
 .streamlit/
 .DS_Store
